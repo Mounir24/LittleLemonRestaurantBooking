@@ -7,5 +7,3 @@ Welcome to the Little Lemon Restaurant website repository. This project was crea
 </p>
 
 --------
-
-![preview](https://github.com/victorpreston/little-lemon-restaurant/assets/112781610/c89281ce-be90-4271-a15d-9f44f6153dee)
